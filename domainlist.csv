@@ -11,3 +11,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 10,2,(\.|^)ra-extdev\.com$,1,1609081436,1610414737,
 11,2,(\.|^)ra-dev\.int$,1,1609081516,1610414737,
 12,2,(\.|^)github\.com$,1,1610479265,1610479265,
+13,2,(\.|^)ra-emonitor\.local$,1,1610482522,1610482522,
