@@ -1,3 +1,5 @@
 id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1608856519,1610414737,"Migrated from /etc/pihole/adlists.list",
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1608856519,1610414737,"Migrated from /etc/pihole/adlists.list",1611060819
 2,https://mirror1.malwaredomains.com/files/justdomains,1,1608856519,1610414737,"Migrated from /etc/pihole/adlists.list",
+3,https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt,1,1611060728,1611060728,"Perflyst&#039;s Smart-TV Blocklist for Pi-hole",1611060821
+4,https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list,1,1611060769,1611060769,"Perflyst&#039;s SmartTV Blocklist for Pi-hole - RegEx extension",1611060822

@@ -3,12 +3,11 @@ id,type,domain,enabled,date_added,date_modified,comment
 2,2,(\.|^)rockwell\.com$,1,1608857286,1610414737,
 3,2,(\.|^)ra-int\.com$,1,1608857292,1610414737,
 4,1,wpad.lan,1,1609000648,1610414737,"Added from Query Log"
-5,1,control.tvinteractive.tv,0,1609000715,1610414737,"Added from Query Log"
-6,1,control-zoo-dtsprod.tvinteractive.tv,0,1609003700,1610414737,"Added from Query Log"
-7,1,control2.tvinteractive.tv,0,1609003709,1610414737,"Added from Query Log"
 8,3,(\.|^)tvinteractive\.tv$,1,1609003730,1610414737,
 9,2,(\.|^)ra-extqa\.com$,1,1609081422,1610414737,
 10,2,(\.|^)ra-extdev\.com$,1,1609081436,1610414737,
 11,2,(\.|^)ra-dev\.int$,1,1609081516,1610414737,
 12,2,(\.|^)github\.com$,1,1610479265,1610479265,
 13,2,(\.|^)ra-emonitor\.local$,1,1610482522,1610482522,
+14,2,(\.|^)office365\.com$,1,1610567826,1610567826,
+15,3,(\.|^)m2\.tuyaus\.com$,0,1610937728,1610981297,
